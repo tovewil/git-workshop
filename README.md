@@ -7,15 +7,35 @@ using git desktop
 
 ## Step 1 - Fork the repository
 
-mabye show some pictures how to do it and explain what happened
+First create your own fork!
 
-next clone the repository same as with forking pictures tell a thousand words and all that
+![Screenshot from 2024-10-03 18-06-55](https://github.com/user-attachments/assets/ec3a56d4-b3c5-4bec-a87a-480eb478b4c3)
+
+
+Next clone the repository!
+
+![image](https://github.com/user-attachments/assets/8e7011cf-2c7d-4a57-8764-c38d20f0cf39)
+
 
 ## Step 2 - Create a branch and switch to it
+
+Create your branch
+
+![image](https://github.com/user-attachments/assets/7aacf21a-e746-4b09-85b2-7f98d4d364e3)
+
 
 - put your name in the file README.md
 
 - stage, commit, push
+
+![image](https://github.com/user-attachments/assets/9206c7f0-fc82-44f2-96e3-28e107087c3a)
+
+
+![image](https://github.com/user-attachments/assets/cb5065df-215b-4477-9f76-9199563cae73)
+
+
+![image](https://github.com/user-attachments/assets/b4982769-f521-418e-9715-d939f1ab3d2a)
+
 
 ## Step 3 - create a pull request
 
