@@ -30,7 +30,7 @@ else:
 
 
 # Initialise game window
-pygame.display.set_caption('Snake Eater')
+pygame.display.set_caption('Snake Eater 2')
 game_window = pygame.display.set_mode((frame_size_x, frame_size_y))
 
 
