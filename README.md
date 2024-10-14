@@ -1,25 +1,55 @@
 # Git workshop
 
-Git is a great tool for developers...
-bla bla bla joink background explanation from slideshow
-
-using git desktop
+The demo uses GitHub Desktop.
 
 ## Step 1 - Fork the repository
 
-mabye show some pictures how to do it and explain what happened
+First create your own fork!
 
-next clone the repository same as with forking pictures tell a thousand words and all that
+![Screenshot from 2024-10-03 18-06-55](https://github.com/user-attachments/assets/ec3a56d4-b3c5-4bec-a87a-480eb478b4c3)
+
+
+Next clone the repository!
+
+<img src="https://github.com/user-attachments/assets/8e7011cf-2c7d-4a57-8764-c38d20f0cf39" width="40%">
+
 
 ## Step 2 - Create a branch and switch to it
 
+Create your branch
+
+<img src="https://github.com/user-attachments/assets/7aacf21a-e746-4b09-85b2-7f98d4d364e3" width="40%">
+
+
 - put your name in the file README.md
 
-- stage, commit, push
+Staging
+
+<img src="https://github.com/user-attachments/assets/9206c7f0-fc82-44f2-96e3-28e107087c3a" width="40%">
+
+Committing
+
+<img src="https://github.com/user-attachments/assets/cb5065df-215b-4477-9f76-9199563cae73" width="40%">
+
+Pushing
+
+<img src="https://github.com/user-attachments/assets/b4982769-f521-418e-9715-d939f1ab3d2a" width="80%">
+
 
 ## Step 3 - create a pull request
 
-merge your change with your main branch
+A.k.a. how to update your main branch the proper way.
+
+First you enter the menu
+
+![Screenshot from 2024-10-03 18-23-54](https://github.com/user-attachments/assets/5a4c4320-7f72-4a36-9de8-fbabb933283b)
+
+
+Then you create your pull request!
+
+![image](https://github.com/user-attachments/assets/ba5bdffe-9b02-4602-826f-0343be18faf6)
+
+
 
 ## Step 4 - change branch to the prepared merge conflict branch 
 
