@@ -1,9 +1,6 @@
 # Git workshop
 
-Git is a great tool for developers...
-bla bla bla joink background explanation from slideshow
-
-using git desktop
+The demo uses GitHub Desktop.
 
 ## Step 1 - Fork the repository
 
